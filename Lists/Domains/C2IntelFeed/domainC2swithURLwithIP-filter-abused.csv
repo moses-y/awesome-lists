@@ -1,15 +1,14 @@
 domain,metadata_comment,uri_path,ip
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,27.71.16.98
 api.imageprovidjs.shop,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js,82.158.89.75
-api.zhimawithyou.top,Possible Cobalt Strike C2 Fronting Domain,/api/v1/node/check,165.154.225.239
 asusupdateserver.asuscomm.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,38.54.112.234
 at1.227api.com,Possible Cobalt Strike C2 Domain,/ga.js,154.83.12.132
 at2.227api.com,Possible Cobalt Strike C2 Domain,/dpixel,154.83.12.132
 at3.227api.com,Possible Cobalt Strike C2 Domain,/dpixel,154.83.12.132
 bbb.0101011010010111001.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,218.237.58.53
+cdn.cloudfront-assets.online,Possible Cobalt Strike C2 Domain,/api/v1/assets/sync,89.116.210.28
 cl0ud.n1u89dhs.xyz,Possible Cobalt Strike C2 Domain,/api/v2/sync/poll,82.158.89.27
-complianceportals.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,46.19.140.50
-dev.useimage.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,82.158.89.214
+complianceportals.com,Possible Cobalt Strike C2 Domain,/ca,46.19.140.50
 developer.office365api.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,206.237.4.140
 dianqi1.dianqi2.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.154.12.150
 dianqi1.jiayongdianqi.xyz,Possible Cobalt Strike C2 Domain,/home/,45.154.12.150
@@ -49,11 +48,8 @@ skynet-i.asuscomm.com,Possible Cobalt Strike C2 Domain,/zOMGAPT,85.175.101.203
 test.dnslogger.site,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,101.37.236.20
 test.officeplustool.top,Possible Cobalt Strike C2 Domain,/ca,47.86.184.71
 update.microsoftapply.com,Possible Cobalt Strike C2 Domain,/en_US/all.js,154.38.114.115
-update.microsofthk.com,Possible Cobalt Strike C2 Domain,/dot.gif,45.207.8.36
-update.microsoftkernel.com,Possible Cobalt Strike C2 Domain,/ca,45.207.8.36
 update.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,70.34.196.238
 upgrade.mloadspring.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,70.34.196.238
 ux85qfba.yuncdn.site,Possible Cobalt Strike C2 Fronted Domain,/api/v1/get,154.12.86.154
 www.dyshop.online,Possible Cobalt Strike C2 Domain,/login.js,111.229.4.108
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js,27.71.16.98
-zhimawithyou.top,Possible Cobalt Strike C2 Fronted Domain,/api/v1/node/check,165.154.225.239

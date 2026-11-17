@@ -6,7 +6,6 @@ domain,metadata_comment,uri_path,ip
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,1.15.100.187
 1364170351-5ezc7c8ssf.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,43.139.170.200
 1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,43.139.170.200
-1364170351-ivarm6apjz.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,43.139.170.200
 1364170351-kld29tgkc1.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x,124.223.90.150
 161-35-173-98.sslip.io,Possible Cobalt Strike C2 Domain,/fwlink,161.35.173.98
 178-128-196-79.sslip.io,Possible Cobalt Strike C2 Domain,/push,209.38.82.85
@@ -52,6 +51,7 @@ c2.apamm.kdns.fr,Possible Cobalt Strike C2 Domain,/cm,149.88.66.234
 c2.apamm.kdns.fr,Possible Cobalt Strike C2 Domain,/dpixel,149.88.66.234
 candxai.com,Possible Cobalt Strike C2 Domain,/cx,45.192.248.45
 cc.twnic.top,Possible Cobalt Strike C2 Domain,/__utm.gif,45.43.59.179
+cdn.cloudfront-assets.online,Possible Cobalt Strike C2 Domain,/api/v1/assets/sync,89.116.210.28
 cdn.pixelcss.org,Possible Cobalt Strike C2 Domain,/www/handle/doc,203.160.54.22
 cdn.soft-update.click,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js,107.173.42.123
 cdn.sys-update.online,Possible Cobalt Strike C2 Domain,/dpixel,51.222.87.16
@@ -64,7 +64,7 @@ ck.erloro.com,Possible Cobalt Strike C2 Domain,/__utm.gif,137.220.194.15
 cl0ud.n1u89dhs.xyz,Possible Cobalt Strike C2 Domain,/api/v2/sync/poll,82.158.89.27
 cloud-svc.site,Possible Cobalt Strike C2 Domain,/api/ping,102.204.223.106
 cloudcdn.gleeze.com,Possible Cobalt Strike C2 Fronted Domain,/extension/g43.css,47.236.91.172
-complianceportals.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml,46.19.140.50
+complianceportals.com,Possible Cobalt Strike C2 Domain,/ca,46.19.140.50
 complianceportals.com,Possible Cobalt Strike C2 Domain,/updates,209.99.186.180
 cs.rainbowrain.top,Possible Cobalt Strike C2 Domain,/en_US/all.js,156.224.18.21
 cs.tpedu2metricstw.dpdns.org,Possible Cobalt Strike C2 Domain,/api/v1/get,45.87.53.6

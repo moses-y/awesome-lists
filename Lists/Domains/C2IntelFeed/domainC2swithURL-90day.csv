@@ -6,7 +6,6 @@ domain,metadata_comment,uri_path
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 1364170351-5ezc7c8ssf.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
-1364170351-ivarm6apjz.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 1364170351-kld29tgkc1.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 161-35-173-98.sslip.io,Possible Cobalt Strike C2 Domain,/fwlink
 178-128-196-79.sslip.io,Possible Cobalt Strike C2 Domain,/push
@@ -55,6 +54,7 @@ c2.apamm.kdns.fr,Possible Cobalt Strike C2 Domain,/cm
 c2.apamm.kdns.fr,Possible Cobalt Strike C2 Domain,/dpixel
 candxai.com,Possible Cobalt Strike C2 Domain,/cx
 cc.twnic.top,Possible Cobalt Strike C2 Domain,/__utm.gif
+cdn.cloudfront-assets.online,Possible Cobalt Strike C2 Domain,/api/v1/assets/sync
 cdn.pixelcss.org,Possible Cobalt Strike C2 Domain,/www/handle/doc
 cdn.soft-update.click,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 cdn.sys-update.online,Possible Cobalt Strike C2 Domain,/dpixel
@@ -67,7 +67,7 @@ ck.erloro.com,Possible Cobalt Strike C2 Domain,/__utm.gif
 cl0ud.n1u89dhs.xyz,Possible Cobalt Strike C2 Domain,/api/v2/sync/poll
 cloud-svc.site,Possible Cobalt Strike C2 Domain,/api/ping
 cloudcdn.gleeze.com,Possible Cobalt Strike C2 Fronted Domain,/extension/g43.css
-complianceportals.com,Possible Cobalt Strike C2 Domain,/IE9CompatViewList.xml
+complianceportals.com,Possible Cobalt Strike C2 Domain,/ca
 complianceportals.com,Possible Cobalt Strike C2 Domain,/updates
 cs.rainbowrain.top,Possible Cobalt Strike C2 Domain,/en_US/all.js
 cs.tpedu2metricstw.dpdns.org,Possible Cobalt Strike C2 Domain,/api/v1/get
