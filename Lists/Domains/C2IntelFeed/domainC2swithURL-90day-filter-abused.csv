@@ -2,7 +2,6 @@ domain,metadata_comment,uri_path
 1.win-faw.win,Possible Cobalt Strike C2 Domain,/js/assets/CmtImgPreview.mmbxv64dbecec011.js
 1302768123-l3a4w496qm.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/v1/status
 1309673150-86ymvxmhrm.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain,/g.pixel
-1318289497-6hwi9hel8e.ap-beijing.tencentscf.com,Possible Cobalt Strike C2 Domain,/jquery/2.0.1/jquery
 1325813086-kvn4jlpgeu.ap-shanghai.tencentscf.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 1364170351-5ezc7c8ssf.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
 1364170351-9enmkvd46p.ap-guangzhou.tencentscf.com,Possible Cobalt Strike C2 Domain,/api/x
@@ -13,6 +12,7 @@ domain,metadata_comment,uri_path
 3se9ewodke339f0e83.connectivitytests.com,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.min.js
 4176rbz8vepn6.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/dpixel
 8ve3qsgxk7rs6.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/push
+a.async.6g.in,Possible Cobalt Strike C2 Domain,/g.pixel
 a3tf75e7k596x.cfc-execute.bj.baidubce.com,Possible Cobalt Strike C2 Domain,/api/v2/analytics/metrics
 aaa.ad4min.com,Possible Cobalt Strike C2 Domain,/cm
 acac.hopto.org,Possible Cobalt Strike C2 Domain,/__utm.gif
@@ -70,7 +70,6 @@ cstest.mucfc.store,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 ct.feliz.icu,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 d14hh3kwt0vf8s.cloudfront.net,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 d2.googleos-js.vip,Possible Cobalt Strike C2 Domain,/dpixel
-dakk5rnsax46s.cfc-execute.su.baidubce.com,Possible Cobalt Strike C2 Domain,/api/x
 dd.googleos-js.vip,Possible Cobalt Strike C2 Domain,/pixel
 dev.useimage.sbs,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 developer.office365api.com,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
@@ -203,7 +202,6 @@ www.eurocommerce.top,Possible Cobalt Strike C2 Fronted Domain,/jquery-3.3.1.easi
 www.mfmni.shop,Possible Cobalt Strike C2 Fronting Domain,/jquery-3.3.1.min.js
 www.microsslcheck.com,Possible Cobalt Strike C2 Domain,/api/stream
 www.microsslcheck.com,Possible Cobalt Strike C2 Domain,/load/main.js
-www.pronhub.shop,Possible Cobalt Strike C2 Domain,/en_US/all.js
 www.qkshhdjrbd.work,Possible Cobalt Strike C2 Domain,/jquery-3.3.1.min.js
 www.rmsmarineservice.com.qwqqwq.ggff.net,Possible Cobalt Strike C2 Domain,/j.ad
 www.vortexnode.kdns.fr,Possible Cobalt Strike C2 Domain,/api/3
